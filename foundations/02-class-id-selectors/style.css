@@ -1,0 +1,19 @@
+.pink {
+    background-color: salmon;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+
+#green {
+    font-weight: bold;
+    background-color: rgb(136, 218, 13);
+    font-size: 24px;
+}
+
+#twentyfour{
+    font-size: 24px;
+}
